@@ -1,7 +1,7 @@
 ## Physics 177: Computational Physics
 
-[Course webpage](https://tanedo.github.io/Physics177-2018/)  
-[Syllabus](https://github.com/Tanedo/Physics177-2018/blob/master/Syllabus/P177_S2018_Syllabus.pdf)
+[Course webpage](https://physics177-2018.github.io/)  
+[Syllabus](https://github.com/Physics177-2018/Syllabus)
 
 If you are taking this class, you already have a solid grasp of 'pen and paper' physics. Modern physics, however, often requires tools beyond 'pen and paper' in two ways:
 1. Large data sets that can require sophisticated processing and analysis.  
