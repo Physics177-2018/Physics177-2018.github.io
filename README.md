@@ -16,7 +16,7 @@ This is a crash course in learning to deal with data in physical systems and num
 
 ## Grades
 
-The latest grade sheet is available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXeVv39Z9HfxOuAsAuf9HDCsY2b9lst-AaIZAJkF1nA3ATH1vkFhAy_AA1jY-4XspTcXHwYwEd9xz_/pub?gid=1181372918&single=true&output=pdf) (pdf). The grades are anonymized and listed according to your assigned P177 **student key number**.
+The latest grade sheet is available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXeVv39Z9HfxOuAsAuf9HDCsY2b9lst-AaIZAJkF1nA3ATH1vkFhAy_AA1jY-4XspTcXHwYwEd9xz_/pub?gid=1181372918&single=true&output=pdf) (pdf) or [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXeVv39Z9HfxOuAsAuf9HDCsY2b9lst-AaIZAJkF1nA3ATH1vkFhAy_AA1jY-4XspTcXHwYwEd9xz_/pubhtml?gid=1181372918&single=true) (web). The grades are anonymized and listed according to your assigned P177 **student key number**.
 
 ## Miscellaneous
 
