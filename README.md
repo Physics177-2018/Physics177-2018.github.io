@@ -14,6 +14,7 @@ This is a crash course in learning to deal with data in physical systems and num
 * [Homework 1a (short)](https://github.com/Physics177-2018/Homework_1a) Due Thursday, 5 April
 * [Homework 1b (long)](https://github.com/Physics177-2018/Homework_1b/blob/master/Homework%201b.ipynb) Due Tuesday, 10 April
 * [Homework 2a (short)](https://github.com/Physics177-2018/Homework_2a) Due Thursday, 12 April
+* [Homework 2b (long)](https://github.com/Physics177-2018/Homework_2b/blob/master/Homework%202b.ipynb), Due Tuesday, 17 April
 
 ## Grades
 
@@ -29,6 +30,14 @@ This week we settled into the class. Some students are having trouble with regis
 - [What Every Programmer Should Know About Floating-Point Arithmetic](http://floating-point-gui.de/)
 - [You're Going To Have To Think!](https://accu.org/index.php/journals/1702)
 - [Floating Point Representation and Rounding Error (YouTube)](https://www.youtube.com/watch?v=wbxSTxhTmrs)
+
+## Week 2
+
+**[Lecture 3](https://github.com/Physics177-2018/Lecture_03)**: Basic integration using Riemann sums, installing packages. 
+
+## Week 3
+
+*Note: there is NO CLASS on Tuesday, April 17. Homework is still due!*
 
 ## Miscellaneous
 
