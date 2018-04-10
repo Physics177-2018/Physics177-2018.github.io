@@ -25,7 +25,8 @@ This week we settled into the class. Some students are having trouble with regis
 
 **[Lecture 1](https://github.com/Physics177-2018/Lecture_01)**: A soft introduction to the class. Why does "computational physics" exist, anyway? Is it different from "real physics"? The Golden Rule for this class: *Professor Tanedo regrets cannot help you with technical computer problems*. Please make time to get your system up and running---but once you're in a Jupyter notebook, it should be smooth sailing. Index card: name / SID / year / programming background / anything I should know about you.
 
-**[Lecture 2](https://github.com/Physics177-2018/Lecture_02)**: Using GitHub. By the way, here's an [example for how to best look for resources online](http://bfy.tw/DYY6). The discussion on rounding error roughly follows the [Python 3 Tutorial, section 15](https://docs.python.org/3/tutorial/floatingpoint.html).
+**[Lecture 2](https://github.com/Physics177-2018/Lecture_02)**: Using GitHub. By the way, here's an [example for how to best look for resources online](http://bfy.tw/DYY6). The discussion on rounding error roughly follows the [Python 3 Tutorial, section 15](https://docs.python.org/3/tutorial/floatingpoint.html). More on representation of numbers: [What Every Programmer Should Know About Floating-Point Arithmetic](http://floating-point-gui.de/), [You're Going To Have To Think!
+](https://accu.org/index.php/journals/1702)
 
 ## Miscellaneous
 
