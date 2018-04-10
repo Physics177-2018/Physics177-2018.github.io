@@ -28,4 +28,5 @@ This week we settled into the class. Some students are having trouble with regis
 
 ## Miscellaneous
 
-[2017 Course](https://github.com/Physics177-2017)
+* [2017 Course](https://github.com/Physics177-2017)
+* [29 common beginner Python errors on one page](https://pythonforbiologists.com/29-common-beginner-errors-on-one-page/) via [pythonforbiologists.com](https://pythonforbiologists.com)
