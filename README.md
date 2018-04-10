@@ -13,6 +13,7 @@ This is a crash course in learning to deal with data in physical systems and num
 
 * [Homework 1a (short)](https://github.com/Physics177-2018/Homework_1a) Due Thursday, 5 April
 * [Homework 1b (long)](https://github.com/Physics177-2018/Homework_1b/blob/master/Homework%201b.ipynb) Due Tuesday, 10 April
+* [Homework 2a (short)](https://github.com/Physics177-2018/Homework_2a) Due Thursday, 12 April
 
 ## Grades
 
