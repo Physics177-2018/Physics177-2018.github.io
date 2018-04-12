@@ -11,12 +11,12 @@ This is a crash course in learning to deal with data in physical systems and num
 
 ## Homework
 
-Please use GitHub classroom to make a private repository to submit homework. The "repo" link is for viewing only and *will not* allow you to submit.
+Students: Please use GitHub classroom, use the "[submit]" link to make a private repository where you can submit homework
 
 * [Homework 1a (short)](https://github.com/Physics177-2018/Homework_1a) Due Thursday, 5 April (submit by e-mail or in class)
 * [Homework 1b (long)](https://github.com/Physics177-2018/Homework_1b/blob/master/Homework%201b.ipynb) Due Tuesday, 10 April
-* [Homework 2a (short)](https://classroom.github.com/a/pHhYhL8W) Due Thursday, 12 April [[Repo](https://github.com/Physics177-2018/Homework_2a)]
-* [Homework 2b (long)](https://classroom.github.com/a/dmOWtBBX), Due Tuesday, 17 April [[Repo](https://github.com/Physics177-2018/Homework_2b)]
+* [Homework 2a (short)](https://github.com/Physics177-2018/Homework_2a) Due Thursday, 12 April [[Repo](https://classroom.github.com/a/pHhYhL8W)]
+* [Homework 2b (long)](https://github.com/Physics177-2018/Homework_2b), Due Tuesday, 17 April [[Repo](https://classroom.github.com/a/dmOWtBBX)]
 
 ## Grades
 
