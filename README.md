@@ -15,8 +15,8 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 
 * [Homework 1a (short)](https://github.com/Physics177-2018/Homework_1a) Due Thursday, 5 April (submit by e-mail or in class)
 * [Homework 1b (long)](https://github.com/Physics177-2018/Homework_1b/blob/master/Homework%201b.ipynb) Due Tuesday, 10 April
-* [Homework 2a (short)](https://github.com/Physics177-2018/Homework_2a) Due Thursday, 12 April [[Repo](https://classroom.github.com/a/pHhYhL8W)]
-* [Homework 2b (long)](https://github.com/Physics177-2018/Homework_2b), Due Tuesday, 17 April [[Repo](https://classroom.github.com/a/dmOWtBBX)]
+* [Homework 2a (short)](https://github.com/Physics177-2018/Homework_2a) Due Thursday, 12 April [[submit](https://classroom.github.com/a/pHhYhL8W)]
+* [Homework 2b (long)](https://github.com/Physics177-2018/Homework_2b), Due Tuesday, 17 April [[submit](https://classroom.github.com/a/dmOWtBBX)]
 
 ## Grades
 
