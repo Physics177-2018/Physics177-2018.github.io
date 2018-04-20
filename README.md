@@ -1,7 +1,8 @@
 ## Physics 177: Computational Physics
 
 [Course webpage](https://physics177-2018.github.io/) (this page)  
-[Syllabus](https://github.com/Physics177-2018/Syllabus)
+[Syllabus](https://github.com/Physics177-2018/Syllabus)  
+[Gitter](https://gitter.im/Physics177-2018/)
 
 If you are taking this class, you already have a solid grasp of 'pen and paper' physics. Modern physics, however, often requires tools beyond 'pen and paper' in two ways:
 1. Large data sets that can require sophisticated processing and analysis.  
