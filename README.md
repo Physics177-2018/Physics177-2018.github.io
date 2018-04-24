@@ -2,6 +2,7 @@
 
 [Course webpage](https://physics177-2018.github.io/) (this page)  
 [Syllabus](https://github.com/Physics177-2018/Syllabus)  
+[![Join the chat at https://gitter.im/Physics177-2018/Lobby](https://badges.gitter.im/Physics177-2018/Lobby.svg)](https://gitter.im/Physics177-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [Gitter](https://gitter.im/Physics177-2018/)
 
 If you are taking this class, you already have a solid grasp of 'pen and paper' physics. Modern physics, however, often requires tools beyond 'pen and paper' in two ways:
