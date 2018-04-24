@@ -2,7 +2,8 @@
 
 [Course webpage](https://physics177-2018.github.io/) (this page)  
 [Syllabus](https://github.com/Physics177-2018/Syllabus)  
-[![Join the chat at https://gitter.im/Physics177-2018/Lobby](LobbLobby.svg)](https://gitter.im/Physics177-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
+[![Join the chat at https://gitter.im/Physics177-2018/Lobby](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg
+)](https://gitter.im/Physics177-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
 [Gitter](https://gitter.im/Physics177-2018/)
 
