@@ -5,8 +5,6 @@
 [![Join the chat at https://gitter.im/Physics177-2018/Lobby](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg
 )](https://gitter.im/Physics177-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-[Gitter](https://gitter.im/Physics177-2018/)
-
 If you are taking this class, you already have a solid grasp of 'pen and paper' physics. Modern physics, however, often requires tools beyond 'pen and paper' in two ways:
 1. Large data sets that can require sophisticated processing and analysis.  
 2. Intractable calculations, for example nonlinear systems or high-dimensional phase spaces.  
@@ -48,6 +46,12 @@ This week we settled into the class. Some students are having trouble with regis
 ## Week 3
 
 *Note: there is NO CLASS on Tuesday, April 17. Homework is still due!*
+
+**[Lecture 5](https://github.com/Physics177-2018/Lecture_05)**: Errors on integrals. What is a reasonable "maximum number of slices" when integrating? Comparing rounding error (numerical precision) to approximation error. 
+
+## Week 4
+
+**Lecture 6**: Ordinary differential equations. Runge-Kutta.
 
 ## Miscellaneous
 
