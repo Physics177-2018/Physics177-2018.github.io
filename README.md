@@ -56,7 +56,7 @@ This week we settled into the class. Some students are having trouble with regis
 
 ## Week 4
 
-**Lecture 6**: Ordinary differential equations. Runge-Kutta.
+**[Lecture 6](https://github.com/Physics177-2018/Lecture_06)**: Ordinary differential equations. Runge-Kutta.
 
 ## Miscellaneous
 
