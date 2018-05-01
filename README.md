@@ -23,6 +23,9 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 * [Homework 3b (long)](https://github.com/Physics177-2018/homework_3b), Due Tuesday, 24 April [[submit](https://classroom.github.com/a/H6AZfUa1)]
 * [Homework 4a (short)](https://github.com/Physics177-2018/homework_4a), Due Thursday, 26 April [[submit](https://classroom.github.com/a/3yrIcwGQ)]
 * [Homework 4b (long)](https://github.com/Physics177-2018/Homework_4b), Due Tuesday, 1 May [[submit](https://classroom.github.com/a/OrgJMHuw)]
+* [Homework 5a (short)](https://github.com/Physics177-2018/Homework_5a), Due Thursday, 3 May [[submit](https://classroom.github.com/a/-5wZ6eLC)]
+
+
 
 
 
