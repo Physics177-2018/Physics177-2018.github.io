@@ -24,6 +24,9 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 * [Homework 4a (short)](https://github.com/Physics177-2018/homework_4a), Due Thursday, 26 April [[submit](https://classroom.github.com/a/3yrIcwGQ)]
 * [Homework 4b (long)](https://github.com/Physics177-2018/Homework_4b), Due Tuesday, 1 May [[submit](https://classroom.github.com/a/OrgJMHuw)]
 * [Homework 5a (short)](https://github.com/Physics177-2018/Homework_5a), Due Thursday, 3 May [[submit](https://classroom.github.com/a/-5wZ6eLC)]
+* [Homework 5b (long)](https://github.com/Physics177-2018/Homework_5b), Due Tuesday, 5 May [[submit](https://classroom.github.com/a/Rw5BCjeE)]
+
+
 
 
 
@@ -60,6 +63,12 @@ This week we settled into the class. Some students are having trouble with regis
 ## Week 4
 
 **[Lecture 6](https://github.com/Physics177-2018/Lecture_06)**: Ordinary differential equations. Runge-Kutta.
+
+**[Lecture 7](https://github.com/Physics177-2018/Lecture_07)**: A peek at RK4, a low-pass filter, and something rotten with energy conservation.
+
+## Week 5
+
+*Note: there is NO CLASS on Tuesday, May 1st. Homework is still due!*
 
 ## Miscellaneous
 
