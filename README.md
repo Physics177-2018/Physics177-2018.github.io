@@ -25,6 +25,8 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 * [Homework 4b (long)](https://github.com/Physics177-2018/Homework_4b), Due Tuesday, 1 May [[submit](https://classroom.github.com/a/OrgJMHuw)]
 * [Homework 5a (short)](https://github.com/Physics177-2018/Homework_5a), Due Thursday, 3 May [[submit](https://classroom.github.com/a/-5wZ6eLC)]
 * [Homework 5b (long)](https://github.com/Physics177-2018/Homework_5b), Due Tuesday, 5 May [[submit](https://classroom.github.com/a/Rw5BCjeE)]
+* [Homework 6a (short)](https://github.com/Physics177-2018/homework_6a), Due Thursday, 10 May [[submit](https://classroom.github.com/a/bX1r0cbZ)]
+
 
 
 
@@ -69,6 +71,17 @@ This week we settled into the class. Some students are having trouble with regis
 ## Week 5
 
 *Note: there is NO CLASS on Tuesday, May 1st. Homework is still due!*
+
+**Lecture 8**: Leap-frog, boundary value problems, partial differential equations
+
+
+## Week 6
+
+**Lecture 9**: Partial differential equations, Monte Carlo
+
+**Lecture 10**: Distributions, Ising Model
+
+
 
 ## Miscellaneous
 
