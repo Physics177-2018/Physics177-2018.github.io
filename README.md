@@ -30,6 +30,12 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 
 
 ## Midterm Presentations
+
+Schedule
+* 5/15: Presentations 1-5
+* 5/17: Presentations 6-9
+* 5/22: Presentations 10-13
+* 5/24: Presentations 13-17
   
   
    
