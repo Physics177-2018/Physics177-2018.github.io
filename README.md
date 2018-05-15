@@ -31,7 +31,6 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 
 ## Midterm Presentations
 
-|----|---------|-----------------------|
 | 1  | Julian  | Binary Search         |
 | 2  | Gus     | Stacks                |
 | 3  | Nick    | Divide & Conquer      |
@@ -52,7 +51,6 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 | 15 | Bran    | Regression            |
 | 16 | Trevor  | TBA                   |
 | 17 | Quentin | TBA                   |
-|----|---------|-----------------------|
 
 
 
