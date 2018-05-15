@@ -29,7 +29,30 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 * [Homework 6b (long)](https://github.com/Physics177-2018/homework_6b), Due Tuesday, 15 May [[submit](https://classroom.github.com/a/PTzsXusT)]
 
 
+## Midterm Presentations
 
+|----|---------|-----------------------|
+| 1  | Julian  | Binary Search         |
+| 2  | Gus     | Stacks                |
+| 3  | Nick    | Divide & Conquer      |
+| 4  | Bre     | Quicksort             |
+| 5  | Steven  | Hash Table            |
+|----|---------|-----------------------|
+| 6  | Miriam  | Breadth First Graph   |
+| 7  | Cindy   | Breadth First + Queue |
+| 8  | Adam    | Trading for a Piano   |
+| 9  | Van     | Greedy Algorithm      |
+|----|---------|-----------------------|
+| 10 | Tiffany | Set Covering          |
+| 11 | Stephen | Traveling Salesperson |
+| 12 | James   | Dynamic Programming   |
+| 13 | Jeremy  | Longest Substring     |
+|----|---------|-----------------------|
+| 14 | Dallas  | K-Nearest Neighbors   |
+| 15 | Bran    | Regression            |
+| 16 | Trevor  | TBA                   |
+| 17 | Quentin | TBA                   |
+|----|---------|-----------------------|
 
 
 
