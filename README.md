@@ -40,14 +40,17 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 | 3  | Nick    | Divide & Conquer      |
 | 4  | Bre     | Quicksort             |
 | 5  | Steven  | Hash Table            |
+|----|---------|-----------------------|
 | 6  | Miriam  | Breadth First Graph   |
 | 7  | Cindy   | Breadth First + Queue |
 | 8  | Adam    | Trading for a Piano   |
 | 9  | Van     | Greedy Algorithm      |
+|----|---------|-----------------------|
 | 10 | Tiffany | Set Covering          |
 | 11 | Stephen | Traveling Salesperson |
 | 12 | James   | Dynamic Programming   |
 | 13 | Jeremy  | Longest Substring     |
+|----|---------|-----------------------|
 | 14 | Dallas  | K-Nearest Neighbors   |
 | 15 | Bran    | Regression            |
 | 16 | Trevor  | TBA                   |
