@@ -30,6 +30,7 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 
 
 ## Midterm Presentations
+
 | Slot | Name | Topic |
 |----|---------|-----------------------|
 | 1  | Julian  | Binary Search         |
