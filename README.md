@@ -103,11 +103,14 @@ This week we settled into the class. Some students are having trouble with regis
 
 **[Lecture 9](https://github.com/Physics177-2018/Lecture_09)**: Partial differential equations, Monte Carlo
 
-**Lecture 10**: Buffon's needle, Markov chains
+**[Lecture 10](https://github.com/Physics177-2018/Lecture_10)**: Buffon's needle, Markov chains
 
 ## Week 7 
 
 *Note: we will have a make up lecture on Monday, May
+
+**[Lecture 11](https://github.com/Physics177-2018/Lecture_11)**: Statistical Mechanics
+
 
 
 
