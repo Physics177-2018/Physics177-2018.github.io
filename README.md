@@ -118,12 +118,17 @@ This week we settled into the class. Some students are having trouble with regis
 
 ## Week 7 
 
-*Note: we will have a make up lecture on Monday, May
+*Note: we will have a make up lecture on Monday, May 14*
 
 **[Lecture 11](https://github.com/Physics177-2018/Lecture_11)**: Statistical Mechanics (see Lec 10 for a clean version of the code)
 
 **[Lecture 12](https://github.com/Physics177-2018/Lecture_12)**: Review: statistical mechanics sucks
 
+**[Lecture 13]**: Metropolis
+
+## Week 8
+
+*Note: we will have a make up lecture on Wednesday, May 23*
 
 
 ## Miscellaneous
