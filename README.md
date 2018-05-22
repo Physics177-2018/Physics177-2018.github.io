@@ -124,11 +124,13 @@ This week we settled into the class. Some students are having trouble with regis
 
 **[Lecture 12](https://github.com/Physics177-2018/Lecture_12)**: Review: statistical mechanics sucks
 
-**[Lecture 13]**: Metropolis
+**[Lecture 13](https://github.com/Physics177-2018/Lecture_13)**: Metropolis
 
 ## Week 8
 
 *Note: we will have a make up lecture on Wednesday, May 23*
+
+**[Lecture 14](https://github.com/Physics177-2018/Lecture_14)**: Simulated Annealing, traveling salesperson
 
 
 ## Miscellaneous
