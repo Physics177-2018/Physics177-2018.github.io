@@ -30,6 +30,7 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 * [Homework 7a (short)](https://github.com/Physics177-2018/Homework_7a), Due Thursday, 17 May [[submit](https://classroom.github.com/a/CR-QNQGR)]
 * [Homework 7b (long)](https://github.com/Physics177-2018/Homework_7b), Due Tuesday, 22 May [[submit](https://classroom.github.com/a/JncLVFhd)]
 * [Homework 8a (short)](https://github.com/Physics177-2018/homework_8a), Due Thursday, 24 May [[submit](https://classroom.github.com/a/4yAogNmo)]
+* [Homework 8b (long)](https://github.com/Physics177-2018/homework_8b), Due Tuesday, 29 May [[submit](https://classroom.github.com/a/8pxC4dnh)]
 
 
 ## Midterm Presentations
@@ -137,6 +138,12 @@ This week we settled into the class. Some students are having trouble with regis
 
 **[Lecture 16](https://github.com/Physics177-2018/Lecture_16)**: Ising model simulation
 
+
+## Week 9
+
+*Lectures this week will be given by Corey Kownacki at the usual time and place* 
+
+The topic will be an introduction to machine learning and Kaggle competitions.
 
 
 ## Miscellaneous
