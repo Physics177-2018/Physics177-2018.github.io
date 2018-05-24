@@ -133,6 +133,11 @@ This week we settled into the class. Some students are having trouble with regis
 
 **[Lecture 14](https://github.com/Physics177-2018/Lecture_14)**: Simulated Annealing, traveling salesperson
 
+**[Lecture 15](https://github.com/Physics177-2018/Lecture_15)**: Ising model theory
+
+**[Lecture 16](https://github.com/Physics177-2018/Lecture_16)**: Ising model simulation
+
+
 
 ## Miscellaneous
 
