@@ -141,9 +141,17 @@ This week we settled into the class. Some students are having trouble with regis
 
 ## Week 9
 
-*Lectures this week will be given by Corey Kownacki at the usual time and place* 
+*Lectures 17-18 this week will be given by Corey Kownacki at the usual time and place* 
 
-The topic will be an introduction to machine learning and Kaggle competitions.
+The topic will be an introduction to machine learning and Kaggle competitions. Here's Corey's summary:
+
+> I began with a five minute introduction to the nifty things ML can do before leading the class through Kaggle and my own tutorial notebook.  To keep the initial code approachable and the discussion generalizable, I created a simple toy-dataset with which to begin.  After briefly surveying how unsupervised clustering works, we used scikit-learn to implement two of the most common supervised-learning algorithms--Ordinary Least-Squares (OLS) for regression and Classification And Regression Trees (CART) for classification.  I made an effort here to outline a typical machine-learning model from start-to-finish, highlighting the loss function's singular role in algorithmic learning (as it is quite general and intuitive).
+
+> After a quick break, I introduced them to the IRIS dataset and the powerful, efficient packages used to streamline data visualization (...that means pandas and seaborn :P).  Unfortunately this felt unavoidable as the students were not familiar with dictionaries, forcing me to choose between scrolling through a huge mess of loops, functions, and variable definitions or just simply using pandas.  At any rate, I restricted use to the simplest methods and showed how to quickly and easily generate numpy arrays from DataFrames (if they were too scary).  We finished by generating and analyzing a series of plots (scatter, correlation, etc) that informed how the analysis should proceed.
+
+> For Part II, I plan to talk about the scoring metric, model selection, and cliff-notes'd optimization / parameter-tuning.  
+
+> Combining both days, I expect to have covered and presented examples for the following algorithms: OLS Regression, CART, Logistic Regression, k-Nearest Neighbors, Linear Discriminant Analysis (LDA), and Principal Component Analysis (PCA).  Based on the lectures and the code available to them, students should then be able to: 1) Visualize and discuss the IRIS data.  2) Naively apply one or more ML algorithms to the data.  3) Defend their choice of model & parameters.
 
 ## Week 10
 
