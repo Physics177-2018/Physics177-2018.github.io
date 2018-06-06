@@ -31,6 +31,8 @@ Students: Please use GitHub classroom, use the "[submit]" link to make a private
 * [Homework 7b (long)](https://github.com/Physics177-2018/Homework_7b), Due Tuesday, 22 May [[submit](https://classroom.github.com/a/JncLVFhd)]
 * [Homework 8a (short)](https://github.com/Physics177-2018/homework_8a), Due Thursday, 24 May [[submit](https://classroom.github.com/a/4yAogNmo)]
 * [Homework 8b (long)](https://github.com/Physics177-2018/homework_8b), Due Tuesday, 29 May [[submit](https://classroom.github.com/a/8pxC4dnh)]
+* [Course Evaluation](https://ieval.ucr.edu/), Due Friday, 9 June
+* [Final Exam](https://github.com/Physics177-2018/Final-Exam), Due 15 June [[submit](https://classroom.github.com/a/Cr5YRrJm)]
 
 
 ## Midterm Presentations
