@@ -159,6 +159,8 @@ The topic will be an introduction to machine learning and Kaggle competitions. H
 
 **[Lecture 19](https://github.com/Physics177-2018/Lecture_19)**: Now that you can code, what can you do with your newfound superpowers? Today: how to get involved in research as an undergraduate, how to apply for graduate school. [Overleaf for LaTeX](https://www.overleaf.com). REU lists: [NSF](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69), [SULI](https://science.energy.gov/wdts/suli/)
 
+**Lecture 20**: Crash course introduction to LaTeX and BibTeX. Prof. Tanedo's AMA. Naive thoughts on succeeding in the next stage of your lives.
+
 **"Final exam"**: Rochelle Silva's [Kaggle Titanic tutorial](https://www.kaggle.com/rochellesilva/simple-tutorial-for-beginners). Createa  Kaggle account, sign up for the Titanic tutorial, folllow Rochelle Silva's tutorial, upload the Jupyter notebook to GitHub. Due Friday, June 15th. 
 
 ## Miscellaneous
